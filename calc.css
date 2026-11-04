@@ -46,6 +46,7 @@ button{
 @media screen and (max-width:768px) {
     .container{
         max-width: 450px;
+        padding: 20px;
     }
     .con{
     width: 60px;
