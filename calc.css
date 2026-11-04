@@ -1,0 +1,38 @@
+.container{
+    background-color: black;
+    color: white;
+    min-height: 60vh;
+    width: 500px;
+    margin: 5px auto;
+    padding-top: 6%;
+    padding-bottom: 30px;
+}
+.output{
+     width: 400px;
+     border: 2px solid black;
+     font-size: 25px;
+     padding: 30px;
+     margin-left: 20px;
+     background-color: rgb(37, 36, 36);
+     color: aliceblue;
+}
+.con{
+    width: 80px;
+    text-align: center;
+    height: 60px;
+}
+.container-btn{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.btn{
+    padding-top: 20px;
+}
+.btn button{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
