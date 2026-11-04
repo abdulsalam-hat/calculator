@@ -44,23 +44,7 @@ button{
     background-color: rgb(58, 55, 55);
     color: aliceblue;
 }
-@media screen and (max-width:768px) {
-    .container{
-        max-width: 450px;
-    }
-    .con{
-    width: 60px;
-    /* text-align: center */
-    height: 50px;
-}
-body{
-    paddding: 20px;
-}
-  .output{
-    max-width: 330px;
-  }
-    
-}
+
 button:hover{
     background-color:rgb(105, 95, 95);
 }
